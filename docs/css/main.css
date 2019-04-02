@@ -1,0 +1,68 @@
+.content {
+  background-color: #132637;
+  color: white;
+  min-height: 100vh; }
+
+.markdown-section h1 {
+  border-top: solid white 4px;
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 1.3;
+  margin-bottom: 60px; }
+
+.markdown-section h2 {
+  border-top: solid white 4px;
+  border-bottom: solid white 4px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 20px; }
+
+.markdown-section h3 {
+  font-weight: bold;
+  margin-top: 0; }
+
+.markdown-section a {
+  color: white !important;
+  text-decoration: none !important; }
+
+.markdown-section a.anchor:hover {
+  text-decoration: none; }
+
+.markdown-section strong {
+  color: white; }
+
+.app-name {
+  display: none; }
+
+.sidebar {
+  background-color: #F5A823; }
+
+.sidebar-nav {
+  color: #132637;
+  font-size: 14px; }
+  .sidebar-nav p {
+    margin-bottom: 0px; }
+  .sidebar-nav strong {
+    font-size: 18px; }
+  .sidebar-nav li > a {
+    color: #132637; }
+
+.markdown-section a.anchor {
+  color: white; }
+
+.sidebar-toggle-button {
+  display: none; }
+
+::-webkit-scrollbar {
+  width: 10px; }
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; }
+
+::-webkit-scrollbar-thumb {
+  background: #888; }
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; }
