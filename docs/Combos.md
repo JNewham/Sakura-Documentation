@@ -1,6 +1,6 @@
-#Combos
+# Combos #
 
-## Meterless Mid-Screen
+## Meterless Mid-Screen ##
 
 **cr.Short, cr.Jab xx strong.Shoryuken**
 - **[DMG]** - 126
